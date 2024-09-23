@@ -1,0 +1,18 @@
+[
+    {
+        "course": "Data Science",
+        "returns": "High"
+    },
+    {
+        "course": "Web Development",
+        "returns": "Medium"
+    },
+    {
+        "course": "Machine Learning",
+        "returns": "High"
+    },
+    {
+        "course": "Cybersecurity",
+        "returns": "High"
+    }
+]
